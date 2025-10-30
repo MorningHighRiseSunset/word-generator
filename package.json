@@ -1,0 +1,7 @@
+{
+  "name": "word-generator",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  }
+}

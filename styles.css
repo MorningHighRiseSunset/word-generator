@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2em;
+  background: #f7f7fa;
+}
+form {
+  margin-bottom: 1em;
+}
+input, button {
+  margin: 0.3em 0.5em 0.3em 0;
+  padding: 0.5em;
+}
+#message {
+  color: #007700;
+  margin-bottom: 1em;
+}
+pre {
+  background: #fff;
+  padding: 1em;
+  border: 1px solid #ccc;
+}
